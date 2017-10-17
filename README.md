@@ -1,4 +1,5 @@
 # Starter Web Project
+A simple website
 
 ## Introdution
 

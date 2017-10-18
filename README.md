@@ -13,3 +13,6 @@ Deployment can be on any web server or local file server
 
 ## How to Contribute
 
+### Copyright
+21047 Git.Training
+

@@ -1,5 +1,5 @@
 # Starter Web Project
-A simple website
+A simple website adding rebase example
 
 ## Introdution
 Example to show different parts of the Git repository

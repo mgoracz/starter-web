@@ -3,6 +3,7 @@ A simple website adding rebase example
 More changes from myfeature bramch
 ## Introdution
 Example to show different parts of the Git repository
+new line for stashing example
 
 
 ## Purpose

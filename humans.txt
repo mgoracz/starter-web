@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Thanks everyone for everything
+    Stashing example
 
 # TECHNOLOGY COLOPHON
 

@@ -15,5 +15,5 @@ Deployment can be on any web server or local file server
 Please for this repository
 
 ### Copyright
-21047 Git.Training
+2107 Git.Training. All rights reserved
 
